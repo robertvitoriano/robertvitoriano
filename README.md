@@ -1,5 +1,5 @@
 # Let's code our dreams !
-<img style="margin: 40px 40px" align="center" width="600px" src="https://24.media.tumblr.com/ab74ab8bd821408dc5a19ec896e9c397/tumblr_muhnwnG9Or1s6pappo1_500.gif">
+<img style="margin: 40px 40px" align="center" width="500px" src="https://24.media.tumblr.com/ab74ab8bd821408dc5a19ec896e9c397/tumblr_muhnwnG9Or1s6pappo1_500.gif">
 
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
@@ -10,8 +10,8 @@
 
 # Github Status
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertvitoriano&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=robertvitoriano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertvitoriano&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=robertvitoriano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/robert-vitoriano-76026416a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
