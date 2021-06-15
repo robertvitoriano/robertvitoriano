@@ -13,6 +13,3 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robertvitoriano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
-<p>🚀 WakaTime</p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertvitoriano)]
