@@ -14,4 +14,4 @@
 </div><br>	
 
 # Wakatime Status
-[![robertvitoriano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertvitoriano)](https://github.com/anuraghazra/github-readme-stats)
+[![robertvitoriano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertvitoriano&v=2)](https://github.com/anuraghazra/github-readme-stats)
