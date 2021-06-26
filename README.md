@@ -13,3 +13,5 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robertvitoriano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
+# Wakatime Status
+  <img src="https://github.com/robertvitoriano/codeStats.svg" alt="Alternative Text"/>
