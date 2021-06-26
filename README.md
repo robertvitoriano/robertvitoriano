@@ -14,4 +14,4 @@
 </div><br>	
 
 # Wakatime Status
-  <img src="https://github.com/robertvitoriano/codeStats.svg" alt="Alternative Text"/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertvitoriano)](https://github.com/anuraghazra/github-readme-stats)
