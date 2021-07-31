@@ -12,6 +12,3 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertvitoriano&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robertvitoriano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
-
-# My Coding Time This Week !
-[![robertvitoriano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertvitoriano&v=2)](https://github.com/anuraghazra/github-readme-stats)
